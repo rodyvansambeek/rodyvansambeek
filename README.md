@@ -9,6 +9,10 @@ I'm passionate about technology, and as an experienced developer with over 20 ye
 
 ## Recent blog posts
 <!--START_SECTION:posts-->
+* [The Easiest Integration of GA4 in Next.js 13 Using GTM](https:&#x2F;&#x2F;www.rodyvansambeek.com&#x2F;blog&#x2F;easiest-ga4-integration-nextjs-13-gtm-guide)
+* [Improve your Git workflow in PowerShell on Windows with Autocomplete](https:&#x2F;&#x2F;www.rodyvansambeek.com&#x2F;blog&#x2F;git-autocomplete-powershell-magic)
+* [Is .NET Standard still relevant or Not in 2023](https:&#x2F;&#x2F;www.rodyvansambeek.com&#x2F;blog&#x2F;net-standard-or-not-in-2023)
+* [Simplifying NuGet Versioning with MinVer](https:&#x2F;&#x2F;www.rodyvansambeek.com&#x2F;blog&#x2F;simplifying-nuget-versioning-with-minver)
 <!--END_SECTION:posts-->
 
 [![Rody van Sambeek's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodyvansambeek&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
