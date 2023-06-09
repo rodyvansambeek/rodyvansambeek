@@ -16,7 +16,7 @@ I'm passionate about technology, and as an experienced developer with over 20 ye
 * [Simplifying NuGet Versioning with MinVer](https:&#x2F;&#x2F;www.rodyvansambeek.com&#x2F;blog&#x2F;simplifying-nuget-versioning-with-minver)
 <!--END_SECTION:posts-->
 
-[![Rody van Sambeek's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodyvansambeek&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Rody van Sambeek's GitHub stats](https://github-readme-stats-gules-three.vercel.app/api?username=rodyvansambeek&show_icons=true)](https://github-readme-stats-gules-three.vercel.app/api?username=rodyvansambeek&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodyvansambeek)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
