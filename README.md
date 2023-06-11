@@ -17,7 +17,7 @@ I'm passionate about technology, and as an experienced developer with over 20 ye
 <!--END_SECTION:posts-->
 
 [![Rody van Sambeek's GitHub stats](https://github-readme-stats-gules-three.vercel.app/api?username=rodyvansambeek&show_icons=true)](https://github-readme-stats-gules-three.vercel.app/api?username=rodyvansambeek&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodyvansambeek)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodyvansambeek)](https://github-readme-stats.vercel.app/api/top-langs/?username=rodyvansambeek)
 
 <!--
 **rodyvansambeek/rodyvansambeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
