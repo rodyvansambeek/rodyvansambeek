@@ -9,11 +9,11 @@ I'm passionate about technology, and as an experienced developer with over 20 ye
 
 ## Recent blog posts
 <!--START_SECTION:posts-->
+* [Connecting .NET to OpenAI with Microsoft.Extensions.AI](https:&#x2F;&#x2F;www.rodyvansambeek.com&#x2F;blog&#x2F;connecting-dotnet-to-openai-with-microsoft-extensions-ai)
 * [Generating Real Test Address Data](https:&#x2F;&#x2F;www.rodyvansambeek.com&#x2F;blog&#x2F;generating-real-test-address-data)
 * [Optimizing Costs and Performance with Vercel&#39;s New Edge Request Pricing](https:&#x2F;&#x2F;www.rodyvansambeek.com&#x2F;blog&#x2F;optimizing-costs-and-performance-of-vercel-edge-request-pricing)
 * [Fast Way to Clean Up Short-Lived Git Feature Branches](https:&#x2F;&#x2F;www.rodyvansambeek.com&#x2F;blog&#x2F;cleaning-up-short-lived-git-branches)
 * [Updating Your GitHub Actions with Dependabot](https:&#x2F;&#x2F;www.rodyvansambeek.com&#x2F;blog&#x2F;dependabot-for-github-actions)
-* [The Easiest Way to Remove node_modules](https:&#x2F;&#x2F;www.rodyvansambeek.com&#x2F;blog&#x2F;easiest-way-to-remove-node_modules)
 <!--END_SECTION:posts-->
 
 [![Rody van Sambeek's GitHub stats](https://github-readme-stats-gules-three.vercel.app/api?username=rodyvansambeek&show_icons=true)](https://github-readme-stats-gules-three.vercel.app/api?username=rodyvansambeek&show_icons=true)
