@@ -10,7 +10,7 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: JasonEtco/rss-to-readme@v1
+      - uses: JasonEtco/rss-to-readme@v2
         with:
           feed-url: https://www.rodyvansambeek.com/rss.xml
           readme-section: posts
